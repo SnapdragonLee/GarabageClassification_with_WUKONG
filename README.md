@@ -2,7 +2,7 @@
 
 ###### Arthor: 19182638 19182655 19182641 1918263 (BUAA Sno)
 
-BUAA Android平台开发技术课程项目代码，作者为 LD, Ariza，kkkkk，楊。
+BUAA Android平台开发技术课程项目代码，作者为 LD, Ariza，kkkkk，Edward。
 
 对于本项目，需要有悟空机器人硬件支持。本代码采用 GPLv2 License 协议。
 
