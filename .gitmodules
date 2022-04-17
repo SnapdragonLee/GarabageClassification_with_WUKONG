@@ -1,0 +1,9 @@
+[submodule "server"]
+	path = server
+	url = https://github.com/SnapdragonLee/GC_with_WUKONG-server.git
+[submodule "alphaMini"]
+	path = alphaMini
+	url = https://github.com/SnapdragonLee/GC_with_WUKONG-alphaMini.git
+[submodule "phone"]
+	path = phone
+	url = https://github.com/SnapdragonLee/GC_with_WUKONG-phone.git
