@@ -10,7 +10,7 @@ BUAA Android平台开发技术课程项目代码，作者为 LD, Ariza，kkkkk�
 
 ## Startup：
 
-悟空机器人绑定，server端启动，phone 端或 alphaMini 端通过局域网远程通信启动操作。
+悟空机器人绑定，server 端启动，phone 端 **或** alphaMini 端通过局域网远程通信启动操作。
 
 
 
@@ -24,16 +24,14 @@ BUAA Android平台开发技术课程项目代码，作者为 LD, Ariza，kkkkk�
 
 ## Description
 
-本项目现有分支有：**master, phone, server, alphaMini**。由于不同端开发语言并不相同，开发套件也不同，因此完整开发需要装有 `Pycharm`、`Android Studio`、`IDEA`（3个版本分别为 2021.3、2020.3、2021.3），由此我们把不同功能做到不同的分支。
+本项目现有代码端：**master, phone, server, alphaMini**。由于不同端开发语言并不相同，开发套件也不同，因此完整开发需要装有 `Pycharm`、`Android Studio`、`IDEA`（3个版本分别为 2021.3、2020.3、2021.3），由此我们把不同功能做到不同的仓库，通过 submodule 统一管理。
 
 
 
-不同的分支下都有 README.md，有对应的使用说明。下面对不同分支进行说明：
+不同 submodule 下都有对应的 commit 编号和 README.md，有对应的使用说明。下面对不同分支进行说明：
 
-`master` 分支：主分支，不设置代码。
+`phone` 端：安卓用户端代码。
 
-`phone` 分支：安卓用户端代码。
+`server` 端：电脑服务端代码。
 
-`server` 分支：电脑服务端代码。
-
-`alphaMini` 分支：电脑悟空平台代码。
+`alphaMini` 端：电脑悟空平台代码。
